@@ -34,9 +34,9 @@ Rocku Oh - Portfolio
 
 -----------------
 4. Projects
-    > - 연구에 필요한 여러 종류의 데이터를 크롤링 하는 예제코드들로 구성되어 있습니다. 
-    > - 본 코드들은 실제로 연구에서 쓰였거나 향후 연구로 사용 할 데이터를 수집하는 데에 목적을 두고 작성하였습니다.
-    > - 바쁜 연구시간에 쫒기다 보니 코드 최적화 및 모듈화를 진행중에 있습니다.
+    > 연구에 필요한 여러 종류의 데이터를 크롤링 하는 예제코드들로 구성되어 있습니다. 
+    > 본 코드들은 실제로 연구에서 쓰였거나 향후 연구로 사용 할 데이터를 수집하는 데에 목적을 두고 작성하였습니다.
+    > 바쁜 연구시간에 쫓기다 보니 코드 최적화 및 모듈화를 진행중에 있습니다.
     - Lexisnexis(News article) Crawling using Selenium
     - SeekingAlpha(Scripts of conference call) Crawling
     - Daily stock price Crawling
